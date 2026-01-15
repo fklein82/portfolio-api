@@ -1,0 +1,298 @@
+{
+  "personalInfo": {
+    "name": "Frédéric Klein",
+    "title": "Associate Principal Account Solution Architect",
+    "company": "Red Hat",
+    "location": "Paris, France",
+    "email": "",
+    "phone": "",
+    "linkedIn": "https://www.linkedin.com/in/fklein82/",
+    "github": "https://github.com/fklein82",
+    "twitter": "https://x.com/fklein82",
+    "website": "https://www.fklein.me",
+    "blog": "https://blog.fklein.me",
+    "portfolio": "https://www.sarycom.fr",
+    "followers": "3K",
+    "connections": "500+"
+  },
+  "summary": "As an Associate Principal Account Solution Architect at Red Hat, I bring over 20 years of IT experience. Expert in cloud-native architectures, Kubernetes, and enterprise solutions, I advise large enterprise organizations on their digital transformation and open source technology adoption. Passionate about technological innovation and knowledge sharing, I support teams in designing and implementing robust, scalable solutions.",
+  "experience": [
+    {
+      "title": "Associate Principal Solutions Architect",
+      "company": "Red Hat",
+      "location": "Paris, France",
+      "current": true,
+      "startDate": "Oct 2025",
+      "endDate": "Present",
+      "description": "As an Associate Principal Solutions Architect at Red Hat, I advise large enterprise clients on adopting cloud-native and open source solutions. Working in the Enterprise vertical, I support organizations in their digital transformation, focusing on scalability, reliability, and infrastructure security."
+    },
+    {
+      "title": "Senior Account Solutions Architect",
+      "company": "Red Hat",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Jan 2024",
+      "endDate": "Oct 2025",
+      "description": "Supported BNP Paribas globally with innovative solutions: AI Infrastructure (LLM as a Service platform using OpenShift GPU Grid for GenAI), Hybrid Cloud (resilient infrastructures with OpenShift across on-premise and multi-cloud), Security (software supply chain with Red Hat Trusted Artifact Signer and Confidential Containers), and Automation (Ansible Automation Platform). Leveraged Kubestronaut certification expertise for advanced Kubernetes architecture."
+    },
+    {
+      "title": "Lead Solution Engineer - Strategic Account",
+      "company": "VMware Tanzu",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Jul 2022",
+      "endDate": "Jan 2024",
+      "description": "Led technical aspects of the sales process, helping customers achieve business objectives through Kubernetes and Cloud Native applications in multi-cloud contexts. Delivered innovative solutions using VMware Tanzu cutting-edge technology. Key achievement: Developed critical connectivity infrastructure solution for Nordnet, modernizing applications and optimizing Kubernetes environments, significantly improving resilience and scalability."
+    },
+    {
+      "title": "Cloud Program Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Aug 2021",
+      "endDate": "Jul 2022",
+      "description": "Led Orange France 'Go Transform' Program to accelerate business transformation using Cloud, DATA and AI. Managed the Google Cloud Partnership for Orange France, focusing on Google Cloud Platform, Software Engineering, Infrastructure Engineering, Security, Big Data, Analytics, and Cloud Networking."
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Amazon Web Services (AWS)",
+      "location": "France",
+      "current": false,
+      "startDate": "Mar 2021",
+      "endDate": "Aug 2021",
+      "description": "Designed scalable, flexible and resilient architectures addressing customer business problems to accelerate Cloud adoption. Served as trusted customer advocate for Cloud platform integration best practices. Validated 2 Cloud Architecture certifications in 1 week."
+    },
+    {
+      "title": "Cloud Department Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Mar 2019",
+      "endDate": "Feb 2021",
+      "description": "Managed 25 internal experts who 'Build and Run' a Cloud infrastructure for container-based applications hosting critical workloads like Online Mobile and Internet Shops or Chatbots. Product Owner for software operability, contributed to 'Move to Cloud' Transformation Program migrating 80+ Legacy projects. Coach and trainer for Orange countries on Agile, Cloud architecture and DevOps. Tech Stack: VMware vSphere, Kubernetes, CloudFoundry, Bosh, ELK, GitLab-CI, Prometheus, Grafana, Ansible, Terraform."
+    },
+    {
+      "title": "Cloud Architect (Orange Réunion assignment)",
+      "company": "Orange",
+      "location": "Saint-Denis de La Réunion",
+      "current": false,
+      "startDate": "Mar 2018",
+      "endDate": "Feb 2019",
+      "description": "Designed new Cloud infrastructure based on Software Defined Platform for hosting NextGEN BSS. Optimized IT delivery model and Developer Experience to accelerate Time-to-Market. Supported Digital transformation working on financial (ROI) and contract aspects, prepared technical training programs for local team. Tech stack: VMware, Red Hat OpenShift, Docker, Oracle, HPE Synergy."
+    },
+    {
+      "title": "DevOps Team Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Sep 2015",
+      "endDate": "Feb 2018",
+      "description": "Integration and Validation Head of Orange Money Mobile Payment Solution in MEA project: Deployment of Indian solution for African markets in 15 countries. Led DevOps transformation for Ops team, QA, integrators and developers. Managed 14 French IT engineers, 6 external contractors, and teams of 25 Indian and 3 Tunisian engineers. Tech stack: GNU/Linux, OpenStack, VMware, Docker/Kubernetes, OpenShift, Ansible, Terraform, Jenkins, GitLab-CI, RobotFramework, Appium, Selenium, ELK, Zabbix, MongoDB, Galera Cluster for MySQL, NodeJS, Java, PHP."
+    },
+    {
+      "title": "Integration Engineer",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Sep 2013",
+      "endDate": "Aug 2015",
+      "description": "Technical expert for Orange Money: achieved Production rollout objectives and affiliated migrations. Contributed to 'Crash Program' Management with responsive support for full operational service restoration during crisis. Supervised Deployment & Run team of six integrators on international project (India, Romania, Africa)."
+    },
+    {
+      "title": "System Engineer",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Sep 2008",
+      "endDate": "Aug 2013",
+      "description": "Administrated virtual production infrastructure hosting critical French services such as Orange Portal, Livebox TV Services, and mobile online shopping platforms."
+    },
+    {
+      "title": "Junior System Engineer",
+      "company": "Orange",
+      "location": "Paris, France",
+      "current": false,
+      "startDate": "Sep 2005",
+      "endDate": "Aug 2008",
+      "description": "Administrated virtual production infrastructure hosting internal services such as CRM, ERP, SiRH. Apprenticeship position during ESIEE-IT engineering studies."
+    },
+    {
+      "title": "IT Support Technician",
+      "company": "CARGONET SOFTWARE",
+      "location": "France",
+      "current": false,
+      "startDate": "Sep 2003",
+      "endDate": "Sep 2005",
+      "description": "Provided general desktop, network and printer support for B2B customers (DPD parcel service)."
+    },
+    {
+      "title": "IT Support Technician - Apprenticeship",
+      "company": "CARGONET SOFTWARE",
+      "location": "France",
+      "current": false,
+      "startDate": "Sep 2001",
+      "endDate": "Aug 2003",
+      "description": "Provided general desktop, network and printer support for B2B customers (DPD parcel service). Apprenticeship position."
+    }
+  ],
+  "education": [
+    {
+      "institution": "ESIEE-IT",
+      "degree": "",
+      "field": "Computer Science",
+      "location": "France",
+      "startYear": 2005,
+      "endYear": 2008,
+      "description": "Computer Engineering program"
+    },
+    {
+      "institution": "",
+      "degree": "",
+      "field": "",
+      "location": "France",
+      "startYear": 2001,
+      "endYear": 2003,
+      "description": "Complementary education"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Kubestronaut",
+      "issuer": "Cloud Native Computing Foundation (CNCF)",
+      "date": "2023",
+      "credentialId": "",
+      "description": "Elite certification awarded to individuals who have earned all Kubernetes certifications (CKA, CKAD, CKS, KCNA, KCSA). Demonstrates exceptional mastery and dedication to the Kubernetes ecosystem.",
+      "featured": true
+    },
+    {
+      "name": "CKA: Certified Kubernetes Administrator",
+      "issuer": "Cloud Native Computing Foundation (CNCF)",
+      "date": "July 2023",
+      "credentialId": "",
+      "description": "Official Kubernetes administrator certification validating skills in deploying, managing, and troubleshooting Kubernetes clusters in production."
+    },
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "issuer": "Cloud Native Computing Foundation (CNCF)",
+      "date": "September 2022",
+      "credentialId": "",
+      "description": "Kubernetes application developer certification demonstrating mastery of developing, building, and deploying cloud-native applications on Kubernetes."
+    },
+    {
+      "name": "CKS: Certified Kubernetes Security Specialist",
+      "issuer": "Cloud Native Computing Foundation (CNCF)",
+      "date": "2023",
+      "credentialId": "",
+      "description": "Advanced certification focusing on securing container-based applications and Kubernetes platforms during build, deployment and runtime."
+    },
+    {
+      "name": "OKR Coach Certificate",
+      "issuer": "",
+      "date": "August 2023",
+      "credentialId": "",
+      "description": "OKR (Objectives and Key Results) coaching certification to support teams in defining and tracking strategic objectives."
+    },
+    {
+      "name": "VMware Certifications",
+      "issuer": "VMware",
+      "date": "August 2023",
+      "credentialId": "",
+      "description": "Multiple VMware certifications validating expertise in virtualization and VMware infrastructures."
+    },
+    {
+      "name": "AWS Certifications",
+      "issuer": "Amazon Web Services",
+      "date": "April 2021",
+      "credentialId": "",
+      "description": "AWS certifications demonstrating mastery of Amazon cloud services and cloud architectures."
+    }
+  ],
+  "skills": {
+    "technical": [
+      "Kubernetes",
+      "OpenShift",
+      "Cloud Architecture",
+      "Cloud Native",
+      "Containerization",
+      "Docker",
+      "DevOps",
+      "CI/CD",
+      "Microservices",
+      "Infrastructure as Code",
+      "Amazon Web Services (AWS)",
+      "VMware",
+      "Solution Architecture",
+      "Enterprise Architecture",
+      "Red Hat Technologies",
+      "Linux",
+      "Automation",
+      "Site Reliability Engineering (SRE)",
+      "Security",
+      "Observability"
+    ],
+    "soft": [
+      "Architecture Design",
+      "Technical Leadership",
+      "Customer Advisory",
+      "Coaching & Mentoring (OKR)",
+      "Public Speaking",
+      "Technical Writing",
+      "Problem Solving",
+      "Strategic Thinking",
+      "Team Collaboration",
+      "Innovation"
+    ]
+  },
+  "languages": [
+    {
+      "language": "French",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional working proficiency"
+    },
+    {
+      "language": "German",
+      "proficiency": "Elementary proficiency"
+    },
+    {
+      "language": "Malagasy",
+      "proficiency": "Elementary proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Technical Blog",
+      "url": "https://blog.fklein.me",
+      "description": "Personal blog about cloud technologies, Kubernetes, and enterprise architecture. Sharing knowledge and experience on modern projects and technologies."
+    },
+    {
+      "name": "Portfolio Website",
+      "url": "https://www.fklein.me",
+      "description": "Personal website showcasing my professional background and achievements."
+    },
+    {
+      "name": "Sarycom",
+      "url": "https://www.sarycom.fr",
+      "description": "Portfolio of technical projects and achievements."
+    }
+  ],
+  "interests": [
+    "Open Source",
+    "Cloud Native Technologies",
+    "Kubernetes Ecosystem",
+    "DevOps Culture",
+    "Site Reliability Engineering",
+    "Technical Innovation",
+    "Knowledge Sharing",
+    "Containerization",
+    "Infrastructure Automation",
+    "Architecture Patterns"
+  ],
+  "metadata": {
+    "lastUpdated": "2026-01-14",
+    "version": "1.0",
+    "source": "LinkedIn Profile"
+  }
+}
