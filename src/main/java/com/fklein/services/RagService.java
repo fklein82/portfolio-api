@@ -20,7 +20,7 @@ public class RagService {
     private static final Logger LOG = Logger.getLogger(RagService.class);
 
     @Inject
-    ClaudeService claudeService;
+    OpenAIService openAIService;
 
     @Inject
     EmbeddingService embeddingService;
@@ -228,7 +228,7 @@ public class RagService {
 
         if (relevantChunks.isEmpty()) {
             LOG.warn("No relevant chunks found for query");
-            return claudeService.streamChatCompletion(
+            return openAIService.streamChatCompletion(
                     "You are an assistant representing Frédéric Klein, Senior Solution Architect at Red Hat. " +
                             "IMPORTANT: Always respond in the SAME LANGUAGE as the user's question (French if question is in French, English if in English).",
                     userQuery + "\n\n(Note: No specific information found in the CV for this question)"
@@ -256,8 +256,8 @@ public class RagService {
                 context
         );
 
-        // Stream response from Claude
-        return claudeService.streamChatCompletion(systemPrompt, userQuery);
+        // Stream response from OpenAI
+        return openAIService.streamChatCompletion(systemPrompt, userQuery);
     }
 
     /**
