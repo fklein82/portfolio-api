@@ -9,20 +9,18 @@ FROM registry.access.redhat.com/ubi9/openjdk-21:1.20 AS build
 USER root
 WORKDIR /app
 
-# Copy Maven wrapper and pom.xml
-COPY --chown=default:root mvnw /app/mvnw
-COPY --chown=default:root .mvn /app/.mvn
-COPY --chown=default:root pom.xml /app/
-RUN chmod +x /app/mvnw
+# Install Maven
+RUN microdnf install -y maven && microdnf clean all
 
-# Download dependencies
-RUN ./mvnw dependency:go-offline -B
+# Copy pom.xml and download dependencies
+COPY --chown=default:root pom.xml /app/
+RUN mvn dependency:go-offline -B
 
 # Copy source code
 COPY --chown=default:root src /app/src
 
 # Build application
-RUN ./mvnw package -DskipTests -Dquarkus.package.jar.type=uber-jar
+RUN mvn package -DskipTests -Dquarkus.package.jar.type=uber-jar
 
 ## Stage 2 : create the docker final image
 FROM registry.access.redhat.com/ubi9/openjdk-21-runtime:1.20
