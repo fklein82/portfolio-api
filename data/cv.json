@@ -1,0 +1,131 @@
+{
+  "personalInfo": {
+    "name": "Frederic Klein",
+    "title": "Associate Principal Account Solution Architect",
+    "company": "Red Hat",
+    "location": "Paris, France",
+    "linkedIn": "https://www.linkedin.com/in/fklein82/",
+    "github": "https://github.com/fklein82",
+    "twitter": "https://x.com/fklein82",
+    "website": "https://www.fklein.me",
+    "blog": "https://blog.fklein.me"
+  },
+  "summary": "As an Associate Principal Account Solution Architect at Red Hat, I bring over 20 years of IT experience. Expert in cloud-native architectures, Kubernetes, and enterprise solutions, I advise large enterprise organizations on their digital transformation and open source technology adoption. Passionate about technological innovation and knowledge sharing, I support teams in designing and implementing robust, scalable solutions.",
+  "experience": [
+    {
+      "title": "Associate Principal Solutions Architect",
+      "company": "Red Hat",
+      "location": "Paris, France",
+      "startDate": "Oct 2025",
+      "endDate": "Present",
+      "description": "Strategic technical advisor for large enterprise accounts, with a strong focus on AI infrastructure and sovereign platforms. Lead architect for BNP Paribas LLM-as-a-Service & GPU-as-a-Service platforms. Design and governance of OpenShift / OpenShift AI platforms in regulated environments. 20,000+ internal users across 25+ entities, 250 on-prem GPUs (H100/H200) operated as GPUaaS."
+    },
+    {
+      "title": "Senior Account Solutions Architect",
+      "company": "Red Hat",
+      "location": "Paris, France",
+      "startDate": "Jan 2024",
+      "endDate": "Oct 2025",
+      "description": "Global technical lead for BNP Paribas, covering AI, hybrid cloud, security, and automation. AI Infrastructure: LLM-as-a-Service on OpenShift AI (vLLM, GPU Grid). Hybrid Cloud: resilient architectures across on-prem and multi-cloud. Security: software supply chain, artifact signing, confidential containers. Automation: Ansible Automation Platform at enterprise scale. Enabled sovereign, compliant GenAI adoption in banking. Managed automation platforms with 100,000+ nodes via Ansible."
+    },
+    {
+      "title": "Lead Solution Engineer - Strategic Account",
+      "company": "VMware Tanzu",
+      "location": "Paris, France",
+      "startDate": "Jul 2022",
+      "endDate": "Jan 2024",
+      "description": "Led technical aspects of the sales process, helping customers achieve business objectives through Kubernetes and Cloud Native applications in multi-cloud contexts. Delivered a DevSecOps platform hosting mission-critical connectivity services for Nordnet."
+    },
+    {
+      "title": "Cloud Program Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "startDate": "Aug 2021",
+      "endDate": "Jul 2022",
+      "description": "Led Orange France 'Go Transform' Program to accelerate business transformation using Cloud, DATA and AI. Managed the Google Cloud Partnership for Orange France."
+    },
+    {
+      "title": "Solutions Architect",
+      "company": "Amazon Web Services (AWS)",
+      "location": "France",
+      "startDate": "Mar 2021",
+      "endDate": "Aug 2021",
+      "description": "Designed scalable, flexible and resilient architectures addressing customer business problems to accelerate Cloud adoption."
+    },
+    {
+      "title": "Cloud Department Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "startDate": "Mar 2019",
+      "endDate": "Feb 2021",
+      "description": "Managed 25 internal experts who Build and Run a Cloud infrastructure for container-based applications hosting critical workloads. Product Owner for software operability. Migrated 80+ Legacy projects. Availability up to 99.9999%. Tech Stack: VMware vSphere, Kubernetes, CloudFoundry, ELK, GitLab-CI, Prometheus, Grafana, Ansible, Terraform."
+    },
+    {
+      "title": "DevOps Team Manager",
+      "company": "Orange",
+      "location": "Paris, France",
+      "startDate": "Sep 2015",
+      "endDate": "Feb 2018",
+      "description": "Orange Money Mobile Payment Solution deployment in 15 countries. Led DevOps transformation. Managed distributed teams in France, India, Tunisia, and Africa."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Kubestronaut",
+      "issuer": "CNCF",
+      "date": "Nov 2024",
+      "description": "Elite certification requiring all 5 Kubernetes certifications (CKA, CKAD, CKS, KCNA, KCSA). One of the few hundred professionals worldwide."
+    },
+    {
+      "name": "CKA: Certified Kubernetes Administrator",
+      "issuer": "CNCF",
+      "date": "July 2023",
+      "description": "Official Kubernetes administrator certification."
+    },
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "issuer": "CNCF",
+      "date": "September 2022",
+      "description": "Kubernetes application developer certification."
+    },
+    {
+      "name": "CKS: Certified Kubernetes Security Specialist",
+      "issuer": "CNCF",
+      "date": "2023",
+      "description": "Advanced certification focusing on securing container-based applications and Kubernetes platforms."
+    },
+    {
+      "name": "CAPA, CBA, KCA, OTCA, PCA, CGOA, CCA",
+      "issuer": "CNCF",
+      "date": "2024",
+      "description": "Additional CNCF certifications: Certified Argo Project Associate, Certified Backstage Associate, Kyverno Certified Associate, OpenTelemetry Certified Associate, Prometheus Certified Associate, Certified GitOps Associate, Cilium Certified Associate."
+    },
+    {
+      "name": "AWS Solutions Architect Associate",
+      "issuer": "Amazon Web Services",
+      "date": "April 2021",
+      "description": "AWS cloud architecture certification."
+    },
+    {
+      "name": "VMware Certified Master Specialist - Cloud Native 2023",
+      "issuer": "VMware",
+      "date": "2023",
+      "description": "VMware cloud native and data center virtualization certifications."
+    },
+    {
+      "name": "Microsoft Azure Fundamentals (AZ-900)",
+      "issuer": "Microsoft",
+      "date": "2023",
+      "description": "Azure fundamentals certification."
+    }
+  ],
+  "skills": {
+    "technical": ["Kubernetes", "OpenShift", "Cloud Architecture", "Cloud Native", "Docker", "DevOps", "CI/CD", "Microservices", "Infrastructure as Code", "AWS", "VMware", "Red Hat Technologies", "Linux", "Automation", "SRE", "Security", "Observability", "AI Infrastructure", "LLM", "GPU"],
+    "soft": ["Architecture Design", "Technical Leadership", "Customer Advisory", "Coaching & Mentoring", "Public Speaking", "Strategic Thinking", "Team Collaboration"]
+  },
+  "languages": [
+    {"language": "French", "proficiency": "Native"},
+    {"language": "English", "proficiency": "Professional working proficiency"},
+    {"language": "German", "proficiency": "Elementary proficiency"}
+  ]
+}
